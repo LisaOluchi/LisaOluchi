@@ -7,7 +7,7 @@
 - 📖 I’m currently learning [Front-End Web Development]
 - 📂 All of my projects are available at (https://github.com/LisaOluchi?tab=repositories)
 - 📫 How to reach me: [sanqgulisa@gmail.com]
--I love doing cretive hobbies, watching movies, baking and holistic exercises.
+-I love doing creative hobbies, watching movies, baking and holistic exercises.
 
 ### 💻 Languages and Tools:
 <p>
